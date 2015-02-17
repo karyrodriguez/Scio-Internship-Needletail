@@ -1,0 +1,12 @@
+c:\users\karyrguez\documents\visual studio 2013\Projects\practicaND\practicaND\bin\Debug\practicaND.exe.config
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\bin\Debug\practicaND.exe.config
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\bin\Debug\practicaND.exe
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\bin\Debug\practicaND.pdb
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\bin\Debug\data.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\bin\Debug\Needletail.DataAccess.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\bin\Debug\data.pdb
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\obj\Debug\practicaND.csprojResolveAssemblyReference.cache
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\obj\Debug\practicaND.exe
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\practicaND\obj\Debug\practicaND.pdb

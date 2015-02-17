@@ -1,0 +1,8 @@
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\data\bin\Debug\data.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\data\bin\Debug\data.pdb
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\data\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\data\bin\Debug\Needletail.DataAccess.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\data\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\data\obj\Debug\data.dll
+C:\Users\krodriguez\Documents\Visual Studio 2013\Projects\practicaND\data\obj\Debug\data.pdb
